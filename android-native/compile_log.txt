@@ -1,0 +1,28 @@
+﻿To honour the JVM settings for this build a single-use Daemon process will be forked. For more on this, please refer to https://docs.gradle.org/8.5/userguide/gradle_daemon.html#sec:disabling_the_daemon in the Gradle documentation.
+Daemon will be stopped at the end of the build 
+> Task :core:checkKotlinGradlePluginConfigurationErrors
+> Task :core:compileKotlin UP-TO-DATE
+> Task :core:compileJava NO-SOURCE
+> Task :core:processResources NO-SOURCE
+> Task :core:classes UP-TO-DATE
+> Task :core:jar UP-TO-DATE
+> Task :android:checkKotlinGradlePluginConfigurationErrors
+> Task :android:preBuild UP-TO-DATE
+> Task :android:preDebugBuild UP-TO-DATE
+> Task :android:checkDebugAarMetadata UP-TO-DATE
+> Task :android:generateDebugResValues UP-TO-DATE
+> Task :android:mapDebugSourceSetPaths UP-TO-DATE
+> Task :android:generateDebugResources UP-TO-DATE
+> Task :android:mergeDebugResources UP-TO-DATE
+> Task :android:packageDebugResources UP-TO-DATE
+> Task :android:parseDebugLocalResources UP-TO-DATE
+> Task :android:createDebugCompatibleScreenManifests UP-TO-DATE
+> Task :android:extractDeepLinksDebug UP-TO-DATE
+> Task :android:processDebugMainManifest UP-TO-DATE
+> Task :android:processDebugManifest UP-TO-DATE
+> Task :android:processDebugManifestForPackage UP-TO-DATE
+> Task :android:processDebugResources UP-TO-DATE
+> Task :android:compileDebugKotlin
+
+BUILD SUCCESSFUL in 16s
+17 actionable tasks: 3 executed, 14 up-to-date

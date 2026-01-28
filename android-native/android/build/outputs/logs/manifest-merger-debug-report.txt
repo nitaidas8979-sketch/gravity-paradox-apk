@@ -1,0 +1,70 @@
+-- Merging decision tree log ---
+manifest
+ADDED from C:\game-projects\gravity-paradox-app\android-native\android\src\main\AndroidManifest.xml:2:1-26:12
+INJECTED from C:\game-projects\gravity-paradox-app\android-native\android\src\main\AndroidManifest.xml:2:1-26:12
+INJECTED from C:\game-projects\gravity-paradox-app\android-native\android\src\main\AndroidManifest.xml:2:1-26:12
+INJECTED from C:\game-projects\gravity-paradox-app\android-native\android\src\main\AndroidManifest.xml:2:1-26:12
+MERGED from [com.badlogicgames.gdx:gdx-backend-android:1.12.1] C:\Users\nitai\.gradle\caches\transforms-3\217d9ab220d4ba54a11b104025c405c0\transformed\gdx-backend-android-1.12.1\AndroidManifest.xml:2:1-13:12
+	package
+		INJECTED from C:\game-projects\gravity-paradox-app\android-native\android\src\main\AndroidManifest.xml
+	android:versionName
+		INJECTED from C:\game-projects\gravity-paradox-app\android-native\android\src\main\AndroidManifest.xml
+	android:versionCode
+		INJECTED from C:\game-projects\gravity-paradox-app\android-native\android\src\main\AndroidManifest.xml
+	xmlns:android
+		ADDED from C:\game-projects\gravity-paradox-app\android-native\android\src\main\AndroidManifest.xml:2:11-69
+uses-feature#0x00020000
+ADDED from C:\game-projects\gravity-paradox-app\android-native\android\src\main\AndroidManifest.xml:4:5-78
+MERGED from [com.badlogicgames.gdx:gdx-backend-android:1.12.1] C:\Users\nitai\.gradle\caches\transforms-3\217d9ab220d4ba54a11b104025c405c0\transformed\gdx-backend-android-1.12.1\AndroidManifest.xml:9:5-11:35
+MERGED from [com.badlogicgames.gdx:gdx-backend-android:1.12.1] C:\Users\nitai\.gradle\caches\transforms-3\217d9ab220d4ba54a11b104025c405c0\transformed\gdx-backend-android-1.12.1\AndroidManifest.xml:9:5-11:35
+	android:glEsVersion
+		ADDED from C:\game-projects\gravity-paradox-app\android-native\android\src\main\AndroidManifest.xml:4:19-51
+	android:required
+		ADDED from C:\game-projects\gravity-paradox-app\android-native\android\src\main\AndroidManifest.xml:4:52-75
+application
+ADDED from C:\game-projects\gravity-paradox-app\android-native\android\src\main\AndroidManifest.xml:6:5-24:19
+INJECTED from C:\game-projects\gravity-paradox-app\android-native\android\src\main\AndroidManifest.xml:6:5-24:19
+	android:extractNativeLibs
+		INJECTED from C:\game-projects\gravity-paradox-app\android-native\android\src\main\AndroidManifest.xml
+	android:supportsRtl
+		ADDED from C:\game-projects\gravity-paradox-app\android-native\android\src\main\AndroidManifest.xml:11:9-35
+	android:label
+		ADDED from C:\game-projects\gravity-paradox-app\android-native\android\src\main\AndroidManifest.xml:9:9-41
+	android:roundIcon
+		ADDED from C:\game-projects\gravity-paradox-app\android-native\android\src\main\AndroidManifest.xml:10:9-54
+	android:icon
+		ADDED from C:\game-projects\gravity-paradox-app\android-native\android\src\main\AndroidManifest.xml:8:9-43
+	android:allowBackup
+		ADDED from C:\game-projects\gravity-paradox-app\android-native\android\src\main\AndroidManifest.xml:7:9-35
+	android:theme
+		ADDED from C:\game-projects\gravity-paradox-app\android-native\android\src\main\AndroidManifest.xml:12:9-49
+activity#com.gravityflip.game.AndroidLauncher
+ADDED from C:\game-projects\gravity-paradox-app\android-native\android\src\main\AndroidManifest.xml:14:9-23:20
+	android:screenOrientation
+		ADDED from C:\game-projects\gravity-paradox-app\android-native\android\src\main\AndroidManifest.xml:18:13-50
+	android:exported
+		ADDED from C:\game-projects\gravity-paradox-app\android-native\android\src\main\AndroidManifest.xml:17:13-36
+	android:configChanges
+		ADDED from C:\game-projects\gravity-paradox-app\android-native\android\src\main\AndroidManifest.xml:16:13-107
+	android:name
+		ADDED from C:\game-projects\gravity-paradox-app\android-native\android\src\main\AndroidManifest.xml:15:13-44
+intent-filter#action:name:android.intent.action.MAIN+category:name:android.intent.category.LAUNCHER
+ADDED from C:\game-projects\gravity-paradox-app\android-native\android\src\main\AndroidManifest.xml:19:13-22:29
+action#android.intent.action.MAIN
+ADDED from C:\game-projects\gravity-paradox-app\android-native\android\src\main\AndroidManifest.xml:20:17-69
+	android:name
+		ADDED from C:\game-projects\gravity-paradox-app\android-native\android\src\main\AndroidManifest.xml:20:25-66
+category#android.intent.category.LAUNCHER
+ADDED from C:\game-projects\gravity-paradox-app\android-native\android\src\main\AndroidManifest.xml:21:17-77
+	android:name
+		ADDED from C:\game-projects\gravity-paradox-app\android-native\android\src\main\AndroidManifest.xml:21:27-74
+uses-sdk
+INJECTED from C:\game-projects\gravity-paradox-app\android-native\android\src\main\AndroidManifest.xml reason: use-sdk injection requested
+INJECTED from C:\game-projects\gravity-paradox-app\android-native\android\src\main\AndroidManifest.xml
+INJECTED from C:\game-projects\gravity-paradox-app\android-native\android\src\main\AndroidManifest.xml
+MERGED from [com.badlogicgames.gdx:gdx-backend-android:1.12.1] C:\Users\nitai\.gradle\caches\transforms-3\217d9ab220d4ba54a11b104025c405c0\transformed\gdx-backend-android-1.12.1\AndroidManifest.xml:5:5-7:41
+MERGED from [com.badlogicgames.gdx:gdx-backend-android:1.12.1] C:\Users\nitai\.gradle\caches\transforms-3\217d9ab220d4ba54a11b104025c405c0\transformed\gdx-backend-android-1.12.1\AndroidManifest.xml:5:5-7:41
+	android:targetSdkVersion
+		INJECTED from C:\game-projects\gravity-paradox-app\android-native\android\src\main\AndroidManifest.xml
+	android:minSdkVersion
+		INJECTED from C:\game-projects\gravity-paradox-app\android-native\android\src\main\AndroidManifest.xml

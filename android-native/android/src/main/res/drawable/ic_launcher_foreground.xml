@@ -1,0 +1,22 @@
+<vector xmlns:android="http://schemas.android.com/apk/res/android"
+    android:width="108dp"
+    android:height="108dp"
+    android:viewportWidth="108"
+    android:viewportHeight="108">
+    
+    <!-- Gravity arrow pointing down - represents the game's core mechanic -->
+    <path
+        android:fillColor="#00FFFF"
+        android:pathData="M54,25 L78,70 L54,58 L30,70 Z"/>
+    
+    <!-- Accent stars -->
+    <path
+        android:fillColor="#FFFFFF"
+        android:fillAlpha="0.7"
+        android:pathData="M22,30 L24,35 L22,40 L20,35 Z"/>
+    
+    <path
+        android:fillColor="#FFFFFF"
+        android:fillAlpha="0.5"
+        android:pathData="M85,55 L86,58 L85,61 L84,58 Z"/>
+</vector>
